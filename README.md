@@ -1,5 +1,6 @@
 # Curso_JavaScript_ZERO
 O que é necessário para aprender JavaScript? O que você pode fazer com JavaScript? O que estudar HTML ou JavaScript primeiro?
+#
 [  ] 1 - https://www.youtube.com/watch?v=QwMlgfMK6fQ&list=PLJubkp8BnTJtjPikTnv8JoYWKFjUu7bRH&index=1
 #
 [  ] 2 - https://www.youtube.com/watch?v=GucaPbn9Cf8&=PLJubkp8BnTJtjPikTnv8JoYWKFjUu7bRH&index=2
