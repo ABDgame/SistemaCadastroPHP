@@ -7,7 +7,7 @@ O que é necessário para aprender JavaScript? O que você pode fazer com JavaSc
 #
 [  ]https://youtu.be/QOeDE7nPDq0?si=AN6QxZaMBX9AUTUI
 #
-[  ]
+[  ] https://youtu.be/15CXhnQkilY?si=QYCSf2BONZRQi3dN
 #
 [  ]
 #
