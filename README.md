@@ -11,4 +11,10 @@ O que é necessário para aprender JavaScript? O que você pode fazer com JavaSc
 #
 [  ] https://youtu.be/mtXPZvB54-M?si=fF1jfRjbotvBw9LE
 #
+[  ] https://youtu.be/r5aYk7rjRP0?si=ZZ-hVwvHkIeRA-Si
+#
 [  ]
+#
+[   ]
+#
+[   ]
