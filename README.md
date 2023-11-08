@@ -1,5 +1,5 @@
 # SISTEMA DE CADASTRO EM PHP
-O que é necessário para aprender JavaScript? O que você pode fazer com JavaScript? O que estudar HTML ou JavaScript primeiro?
+Sistema de cadastro simples e elegante de formulário com HTML, CSS e PHP.
 #
 [  ] https://youtu.be/lP-XV2wXXQM?si=6F6iTvXHetq-CsDN
 #
